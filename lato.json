@@ -1,0 +1,98 @@
+{
+ "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_reward":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_reward":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+     "Categories": [
+    {
+      "category": "Tips",
+      "image": "file:///android_asset/image/alien1.jpg"
+
+    },
+    {
+      "category": "Tutorial",
+      "image": "https://aliendro.id/uploads/demo/guideslide/alien_logo.jpg"
+
+    },
+    {
+      "category": "Free SC",
+      "image": "https://aliendro.id/uploads/demo/guideslide/icon.jpg"
+
+    },
+    {
+      "category": "Premium SC",
+      "image": "file:///android_asset/image/maskot.jpg"
+
+    }
+  ],
+
+ "Data": [
+    {
+      "id": 1,
+      "category": "Tips",
+      "title": "tips 1",
+      "image": "file:///android_asset/4.jpg",
+      "description": "null",
+      "link": "file:///android_asset/guide/guide-1.html"
+    },
+    {
+      "id": 2,
+      "category": "Tutorial",
+      "title": "tips 2",
+      "image": "file:///android_asset/image/5.jpg",
+      "description": "null",
+      "link": "file:///android_asset/guide/guide-2.html"
+    },
+    {
+      "id": 3,
+      "category": "Tutorial",
+      "title": "tips 3",
+      "image": "file:///android_asset/image/6.jpg",
+      "description": "null",
+      "link": "file:///android_asset/guide/guide-3.html"
+    },
+    {
+      "id": 4,
+      "category": "Tips",
+      "title": "tips 4",
+      "image": "file:///android_asset/image/7.jpg",
+      "description": "null",
+      "link": "file:///android_asset/guide/guide-4.html"
+    },
+    {
+      "id": 5,
+      "category": "Tutorial",
+      "title": "tips 5",
+      "image": "file:///android_asset/image/8.jpg",
+      "description": "null",
+      "link": "file:///android_asset/guide/guide-5.html"
+    },
+    {
+      "id": 6,
+      "category": "Tips",
+      "title": "tips 6",
+      "image": "file:///android_asset/image/9.jpg",
+      "description": "null",
+      "link": "file:///android_asset/guide/guide-6.html"
+    }
+  ]
+
+}
